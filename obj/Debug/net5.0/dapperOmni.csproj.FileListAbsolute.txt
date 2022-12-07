@@ -1,0 +1,168 @@
+C:\caio\dapperOmni\bin\Debug\net5.0\appsettings.Development.json
+C:\caio\dapperOmni\bin\Debug\net5.0\appsettings.json
+C:\caio\dapperOmni\bin\Debug\net5.0\dapperOmni.exe
+C:\caio\dapperOmni\bin\Debug\net5.0\dapperOmni.deps.json
+C:\caio\dapperOmni\bin\Debug\net5.0\dapperOmni.runtimeconfig.json
+C:\caio\dapperOmni\bin\Debug\net5.0\dapperOmni.runtimeconfig.dev.json
+C:\caio\dapperOmni\bin\Debug\net5.0\dapperOmni.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\dapperOmni.pdb
+C:\caio\dapperOmni\bin\Debug\net5.0\Azure.Core.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Azure.Identity.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Dapper.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\System.Memory.Data.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.csproj.AssemblyReference.cache
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.GeneratedMSBuildEditorConfig.editorconfig
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.AssemblyInfoInputs.cache
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.AssemblyInfo.cs
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.csproj.CoreCompileInputs.cache
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.MvcApplicationPartsAssemblyInfo.cs
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.MvcApplicationPartsAssemblyInfo.cache
+C:\caio\dapperOmni\obj\Debug\net5.0\scopedcss\bundle\dapperOmni.styles.css
+C:\caio\dapperOmni\obj\Debug\net5.0\staticwebassets\dapperOmni.StaticWebAssets.Manifest.cache
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.RazorTargetAssemblyInfo.cache
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.csproj.CopyComplete
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.dll
+C:\caio\dapperOmni\obj\Debug\net5.0\refint\dapperOmni.dll
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.pdb
+C:\caio\dapperOmni\obj\Debug\net5.0\dapperOmni.genruntimeconfig.cache
+C:\caio\dapperOmni\obj\Debug\net5.0\ref\dapperOmni.dll
+C:\caio\dapperOmni\bin\Debug\net5.0\Dapper.Contrib.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\appsettings.Development.json
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\appsettings.json
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\dapperOmni.exe
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\dapperOmni.deps.json
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\dapperOmni.runtimeconfig.json
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\dapperOmni.runtimeconfig.dev.json
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\dapperOmni.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\dapperOmni.pdb
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Azure.Core.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Azure.Identity.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Dapper.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Dapper.Contrib.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\System.Memory.Data.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\caio3ds\dapperOmni\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.csproj.AssemblyReference.cache
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.GeneratedMSBuildEditorConfig.editorconfig
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.AssemblyInfoInputs.cache
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.AssemblyInfo.cs
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.csproj.CoreCompileInputs.cache
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.MvcApplicationPartsAssemblyInfo.cs
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.MvcApplicationPartsAssemblyInfo.cache
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\scopedcss\bundle\dapperOmni.styles.css
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\staticwebassets\dapperOmni.StaticWebAssets.Manifest.cache
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.RazorTargetAssemblyInfo.cache
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.csproj.CopyComplete
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.dll
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\refint\dapperOmni.dll
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.pdb
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\dapperOmni.genruntimeconfig.cache
+D:\caio3ds\dapperOmni\obj\Debug\net5.0\ref\dapperOmni.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\appsettings.json
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\dapperOmni.exe
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\dapperOmni.deps.json
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\dapperOmni.runtimeconfig.json
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\dapperOmni.runtimeconfig.dev.json
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\dapperOmni.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\dapperOmni.pdb
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Dapper.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Dapper.Contrib.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.csproj.AssemblyReference.cache
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.AssemblyInfoInputs.cache
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.AssemblyInfo.cs
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\scopedcss\bundle\dapperOmni.styles.css
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\staticwebassets\dapperOmni.StaticWebAssets.Manifest.cache
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.RazorTargetAssemblyInfo.cache
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.csproj.CopyComplete
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\refint\dapperOmni.dll
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.pdb
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\dapperOmni.genruntimeconfig.cache
+C:\Users\Win 10\Desktop\dapperOmni-main\obj\Debug\net5.0\ref\dapperOmni.dll
